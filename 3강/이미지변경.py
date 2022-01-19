@@ -1,0 +1,21 @@
+from tkinter import *
+win = Tk()
+win.geometry("800x800")
+win.title("이미지변경")
+def change():
+    label1.config(text = "귀여운 거북이 사진")
+    label2.config(image = turtle)
+def change2():
+    label1.config(text = "귀여운 강아지 사진")
+    label2.config(image = dog)
+label1 = Label(win, text = "귀여운 강아지 사진",font=("굴림체","20"))
+label1.pack()
+dog = PhotoImage(file = "dog.png")
+turtle = PhotoImage(file = "turtle.png")
+label2 = Label(win, image = dog)
+label2.pack()
+button1 = Button(win, text="거북이 사진",command = change)
+button1.pack()
+button2 = Button(win, text="강아지 사진",command = change2)
+button2.pack()
+win.mainloop()
