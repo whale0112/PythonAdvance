@@ -1,0 +1,22 @@
+culture@문화, 교양
+effect@결과, 영향, 효과
+liberty@자유
+affair@사건, 일
+tradition@전통, 전설
+subject@학과, 주제, 주어
+object@사물, 목적, 반대하다
+revolution@혁명
+pollution@오염
+system@조직, 체계, 지도
+respect@존경, 존경하다
+communication@전달, 교통
+foundation@기초
+glory@영광
+situation@위치, 사태
+prairie@대초원
+effort@노력
+rein@고삐
+solution@해결, 용해
+hono(u)r@명예/경의, 존경하다
+unity@통일/일치
+population@인구
